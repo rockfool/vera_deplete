@@ -282,7 +282,7 @@ water_600
 % --- Pyrex
 
 pin 4
-water_600   0.2140
+helium      0.2140  % water_600   0.2140 fix the bug in VERA_2E
 ss304       0.2310
 water_600   0.2410
 pyrex       0.4270
